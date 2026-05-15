@@ -8,3 +8,6 @@
 .row{
     border: 8px solid red;
 }
+.col{
+    border:8px solid green;
+}
