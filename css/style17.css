@@ -1,0 +1,6 @@
+.container{ border: 5px solid #000; }
+
+h2{ 
+    background: var(--purple);
+    color: var(--yellow);
+}

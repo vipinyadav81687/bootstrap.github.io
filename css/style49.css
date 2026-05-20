@@ -1,0 +1,7 @@
+    .accordion .btn{
+    background: green;
+    color: white;
+}
+.accordion .btn.collapsed{
+    background: red;
+}
